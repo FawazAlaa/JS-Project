@@ -134,10 +134,10 @@ userSearch.addEventListener('input', function () {
 
 });
 
- allMoviesContainer=document.getElementById('movielist__cards').addEventListener('click',function(e){
-     console.log(allMoviesContainer)
-    console.log(e);
- });
+//  allMoviesContainer=document.getElementById('movielist__cards').addEventListener('click',function(e){
+//      console.log(allMoviesContainer)
+//     console.log(e);
+//  });
 
 //  allMoviesContainer.forEach((item) => {     
 //  item.addEventListener('click',function(e){
